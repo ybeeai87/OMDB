@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "62Hjg7JnJP+jquuFVjTRedKyZ4wji3TuM4SrqrGohlH9jvIDpWQUGhlB6CHfCPtCHe8DKRD4DZqFc7prkerOcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ybeea\\OneDrive\\Desktop\\GrandCircus\\Week6\\SearchingOMDB\\SearchingOMDB\\SearchingOMDB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ybeea\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
